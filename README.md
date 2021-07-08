@@ -77,8 +77,8 @@ Predicted Yt = Constant + Linear combination Lags of Y (upto p lags) + Linear Co
 of Lagged forecast errors (upto q lags)
 
 An ARIMA model is characterized by 3 parameters : p, d, q where,
-p is the order of the AR term
-q is the order of the MA term
+p is the order of the AR term.
+q is the order of the MA term.
 d is the number of differencing required to make the time series stationary.
 
 
