@@ -32,7 +32,7 @@ Stationarity: A time series is defined to be stationary if its joint probability
 mostly invariant under translations in time or space. In particular, and of key importance for
 traders, the mean and variance of the process do not change over time or space and they
 each do not follow a trend.If a time series is stationary in nature, we observe that the probability distribution is invariant
-and hence a lot of factors somewhat constant remain in control and such a series is easier to
+and hence, a lot of factors somewhat constant remain in control and such a series is easier to
 work upon for statistical purposes. Hence, calculating the stationarity of the series becomes
 important.To calculate the stationarity of a time series, we have made use of the concept of Hurst
 Exponent.
