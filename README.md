@@ -67,7 +67,7 @@ ARIMA, short for ‘Auto Regressive Integrated Moving Average’ is actually a c
 that ‘explains’ a given time series based on its own past values, that is, its own lags and the
 lagged forecast errors, so that equation can be used to forecast future values.
 A pure Auto Regressive (AR only) model is one where Yt depends only on its own lags. That
-is, Yt is a function of the ‘lags of Yt’. Likewise a pure Moving Average (MA only) model is one
+is, Yt is a function of the ‘lags of Yt’. Likewise, a pure Moving Average (MA only) model is one
 where Yt depends only on the lagged forecast errors. An ARIMA model is one where the
 time series is differenced at least once to make it stationary and you combine the AR and
 the MA terms.
