@@ -6,7 +6,7 @@ on the market. We first filter out stocks on the basis of their stationarity by 
 the hurst exponent. This is followed by an in-depth analysis of these filtered stocks over
 three different time intervals to finally select the Top 25 stocks. Upon this selection, we use
 Machine Learning techniques, namely ARIMA models for the prediction of these 25 stocks
-and gauge our accuracy..
+and gauge our accuracy.
 
 ## Data
 We were provided with minute-wise data containing stockVWAP (stock volume-weighted
